@@ -3,7 +3,7 @@
 This project is a short introduction to Google Earth Engine tools applied to remote sensing of the level of deforestation of mangroves in the Gulf of Guinea.
 
 <p align="center">
-  <img src="example_of_classification" alt="Douala, mangrove classification" background-color="red" title="Douala, Satellite vs Mangrove classification" width="900" height="431">
+  <img src="example_of_classification.png" alt="Douala, mangrove classification" background-color="red" title="Douala, Satellite vs Mangrove classification" width="900" height="431">
 </p>
 
 <br />
