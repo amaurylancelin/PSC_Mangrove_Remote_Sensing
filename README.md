@@ -1,21 +1,25 @@
-Vous trouverez dans ce dossier 
+#PSC Polytechnique : Remote sensing of mangroves with Google Earth Engine #
 
-- Un dossier "data" constitué de fichiers texte contenant toutes les données utilisées pour l'entrainement des algorithmes de classification.
+This project is a short introduction to Google Earth engine tools applied to remote sensing of the level of deforestation of mangroves in the Gulf of Guinea.
 
-	/!\ IL est important de ne pas en modifier le contenu /!\
+You will find in this project
 
+- A "data" folder consisting of text files containing all the data used for training the classification algorithms.
 
-- Un jupyter notebook "notebook_final" qui contient tout le code commenté de l'entrainement des algorithmes à l'affichage des résultats
-
-	/!\ Il faut télécharger la bibliothèque geemap pour que le notebook marche. Cela peut normalement être fait en enlevant le commentaire de "!pip Install geemap". Cette installation devra être effectuée à chaque lancement du notebook. Pour une meilleure installation voir internet comment installer geemap. /!\
-
-- Un Jupiter notebook "final_app" dont le code n'est pas commenté, et qui a pour objectif d'être utilisé tel un application interactive, avec le module voilà. L'installation de ce module est détaillée en haut du notebook.
+> :warning: It is important not to modify the content
 
 
+- A jupyter notebook "notebook_final" which contains all the commented code from the training of the algorithms to the display of the results
 
-Penser à bien nettoyer les sorties des cellules du notebook en le quittant, afin d'éviter les erreurs de sauvegarde et de gestion (Menu Cell/All output/Clear).
+> :warning: You must download the geemap library for the notebook to work. This can normally be done by uncommenting "!pip Install geemap".
+
+- A Jupiter notebook "final_app" whose code is not commented, and which aims to be used as an interactive application, with the module voilà. The installation of this module is detailed at the top of the notebook.
 
 
-Bonne utilisation des outils !
+
+Remember to clean the outputs of the cells of the notebook when leaving it, in order to avoid saving and management errors (Menu Cell/All output/Clear).
+
+
+Good use of tools!
 
 
