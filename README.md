@@ -1,6 +1,6 @@
 Vous trouverez dans ce dossier 
 
--Un dossier "data" constitué de fichiers texte contenant toutes les données utilisées pour l'entrainement des algorithmes de classification.
+- Un dossier "data" constitué de fichiers texte contenant toutes les données utilisées pour l'entrainement des algorithmes de classification.
 
 	/!\ IL est important de ne pas en modifier le contenu /!\
 
@@ -9,7 +9,7 @@ Vous trouverez dans ce dossier
 
 	/!\ Il faut télécharger la bibliothèque geemap pour que le notebook marche. Cela peut normalement être fait en enlevant le commentaire de "!pip Install geemap". Cette installation devra être effectuée à chaque lancement du notebook. Pour une meilleure installation voir internet comment installer geemap. /!\
 
--un Jupiter notebook "final_app" dont le code n'est pas commenté, et qui a pour objectif d'être utilisé tel un application interactive, avec le module voilà. L'installation de ce module est détaillée en haut du notebook.
+- Un Jupiter notebook "final_app" dont le code n'est pas commenté, et qui a pour objectif d'être utilisé tel un application interactive, avec le module voilà. L'installation de ce module est détaillée en haut du notebook.
 
 
 
