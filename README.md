@@ -1,8 +1,16 @@
-# PSC Polytechnique : Remote sensing of mangroves with Google Earth Engine
+# PSC Polytechnique : Remote sensing of mangroves
 
-This project is a short introduction to Google Earth engine tools applied to remote sensing of the level of deforestation of mangroves in the Gulf of Guinea.
+This project is a short introduction to Google Earth Engine tools applied to remote sensing of the level of deforestation of mangroves in the Gulf of Guinea.
 
-You will find in this project
+<p align="center">
+  <img src="output/plots/plot_all.png" alt="Rabi Clustering" background-color="red" title="Rabi Clustering" width="900" height="431">
+</p>
+
+<br />
+
+You will find in this project : 
+
+- A file "ECO09pagepublique.pdf" briefly describing the objectives of the project
 
 - A "data" folder consisting of text files containing all the data used for training the classification algorithms.
 
