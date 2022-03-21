@@ -1,4 +1,4 @@
-#PSC Polytechnique : Remote sensing of mangroves with Google Earth Engine #
+# PSC Polytechnique : Remote sensing of mangroves with Google Earth Engine
 
 This project is a short introduction to Google Earth engine tools applied to remote sensing of the level of deforestation of mangroves in the Gulf of Guinea.
 
