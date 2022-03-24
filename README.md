@@ -25,7 +25,7 @@ You will find in this project :
 
 
 
-Remember to clean the outputs of the cells of the notebook when leaving it, in order to avoid saving and management errors (Menu Cell/All output/Clear).
+Remember to clean the outputs of the cells of the notebook when leaving it, in order to avoid saving and management errors.
 
 
 Good use of tools!
